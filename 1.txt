@@ -1,2 +1,2 @@
-aaa
+aaa  edtor in master 
 bbbb   edtor by hot_fix
