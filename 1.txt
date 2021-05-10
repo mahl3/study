@@ -1,2 +1,3 @@
 aaa   edtor in hot_fix
+aaa  edtor in master 
 bbbb   edtor by hot_fix
